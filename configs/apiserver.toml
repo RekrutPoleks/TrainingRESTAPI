@@ -1,0 +1,5 @@
+bind_addr = ":8080"
+log_level = "debug"
+
+[store]
+database_url = "host=45.91.8.100 user=future password=%s dbname=apiserv_dev sslmode=disable"
